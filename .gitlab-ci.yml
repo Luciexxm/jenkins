@@ -1,0 +1,7 @@
+stages:
+  - test
+# 运行测试用例
+test:
+  stage: test
+  script:
+    - echo "hello"
